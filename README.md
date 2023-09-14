@@ -6,8 +6,8 @@ Ce projet Spring Boot offre des fonctionnalités de gestion des utilisateurs ave
 
 1. Clonez ce dépôt :
    GitBash:
-   git clone https://github.com/votre-utilisateur/testatos.git
-   cd testatos
+        git clone https://github.com/votre-utilisateur/testatos.git
+        cd testatos
 
 2. Ouvrir le projet dans IntelliJ IDEA : Lancez IntelliJ IDEA et ouvrez le projet en sélectionnant le répertoire racine du projet que vous avez cloné
 
