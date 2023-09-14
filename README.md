@@ -13,9 +13,9 @@ Ce projet Spring Boot offre des fonctionnalités de gestion des utilisateurs ave
 
 3. Lancer le projet a partir du main
  
-   4. Accédez à Swagger pour explorer l'API : http://localhost:8080/swagger-ui/index.html
+   1. Accédez à Swagger pour explorer l'API : http://localhost:8080/swagger-ui/index.html
 
-   5. Accédez à la console H2 pour gérer la base de données : http://localhost:8080/h2-console
+   2. Accédez à la console H2 pour gérer la base de données : http://localhost:8080/h2-console
 
              JDBC URL: jdbc:h2:mem:testdb
              Nom d'utilisateur: sa
