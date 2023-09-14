@@ -11,12 +11,13 @@ Ce projet Spring Boot offre des fonctionnalités de gestion des utilisateurs ave
 
 2. Ouvrir le projet dans IntelliJ IDEA : Lancez IntelliJ IDEA et ouvrez le projet en sélectionnant le répertoire racine du projet que vous avez cloné
 
- 3.Lancer le projet a partir du main    
+3. Lancer le projet a partir du main
 
- 4.Accédez à Swagger pour explorer l'API : http://localhost:8080/swagger-ui/index.html
+4. Accédez à Swagger pour explorer l'API : http://localhost:8080/swagger-ui/index.html
 
- 5.Accédez à la console H2 pour gérer la base de données : http://localhost:8080/h2-console
+5. Accédez à la console H2 pour gérer la base de données : http://localhost:8080/h2-console
 
 JDBC URL: jdbc:h2:mem:testdb
 Nom d'utilisateur: sa
 Mot de passe: password
+
