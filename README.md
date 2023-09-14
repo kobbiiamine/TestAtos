@@ -17,7 +17,7 @@ Ce projet Spring Boot offre des fonctionnalités de gestion des utilisateurs ave
 
    5. Accédez à la console H2 pour gérer la base de données : http://localhost:8080/h2-console
 
-JDBC URL: jdbc:h2:mem:testdb
-Nom d'utilisateur: sa
-Mot de passe: password
+             JDBC URL: jdbc:h2:mem:testdb
+             Nom d'utilisateur: sa
+             Mot de passe: password
 
