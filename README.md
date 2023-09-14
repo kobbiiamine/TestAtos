@@ -5,7 +5,7 @@ Ce projet Spring Boot offre des fonctionnalités de gestion des utilisateurs ave
 ## Comment Cloner et Installer
 
 1. Clonez ce dépôt :
-   GitBash:
+   Git commands:
        1. git clone https://github.com/votre-utilisateur/testatos.git
        2. cd testatos
 
